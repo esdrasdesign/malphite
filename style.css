@@ -1,0 +1,70 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    background-color: rgba(1, 10, 19, .9);
+    font-family: "Playfair Display", serif;    
+}
+
+.container{
+    position: relative;  
+    color: #ddd;
+    text-align: center;
+    margin: 50px auto;
+}
+
+figcaption{
+    font-size: 10px;
+}
+
+img{
+    max-width: 100%; 
+    width: 100%;
+}
+
+.main-title{
+    color: #e4b46b;
+    font-size: 45px;
+    text-align: center;
+}
+
+.citação{
+    font-size: 14px;
+    color: #ffffff;
+    margin: 20px;
+    font-style: italic;
+}
+
+.sub{
+    color: #ffffff;  
+    margin: 20px;
+    text-align: center;
+    font-style: italic;
+}
+
+.resumo-container{
+    color: #e4b46b;
+    padding: 20px;
+    text-align: center;
+}
+
+.biografia-container{
+    color: #e4b46b;
+    text-align: center;
+    padding: 20px 0;
+    border: 25px 0;
+    border-top: 1px dashed #ddd;
+    border-bottom: 1px dashed #ddd;
+
+}
+
+a{
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;   
+    text-decoration: none;
+    text
+}
